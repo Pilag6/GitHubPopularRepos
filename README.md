@@ -50,4 +50,4 @@ The following criteria will be used to evaluate the project:
 
 ## Author
 
-- [Your Name](https://github.com/Pilag6)
+- [Ezequiel Gonzalez](https://github.com/Pilag6)
