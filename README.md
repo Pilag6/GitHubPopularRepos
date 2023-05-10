@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 3. Install the dependencies: `npm install`
 4. Create a `apikey.js` file at the root of the project directory and add your GitHub access token. The `.apikey.js` file should look like this:
    ```
-   API_KEY= 'your-access-token-goes-here';
+   API_KEY= "your-access-token-goes-here";
    export default APY_KEY;
    ```
    **Note:** Replace `your-access-token-goes-here` with your actual access token.
