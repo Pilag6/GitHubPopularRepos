@@ -4,13 +4,13 @@
 
 This is a single page application that consumes GitHub's API and displays information about a GitHub repository provided by the user. The information displayed includes the repository's name, author, author's profile picture, number of stars and forks, and whether the repository is popular or not (a repository is considered popular if its score is greater than or equal to 500, where score = num_stars * 1 + num_forks * 2).
 
-<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d" align="right" width="200px">
-
 ## Assumptions
 
 - The user is expected to provide a valid GitHub repository name in the format "owner/repo". For example, "facebook/react".
 - The user needs to have a valid access token to authenticate against GitHub's REST API.
 - The API endpoint used to fetch repository information is `https://api.github.com/repos/:owner/:repo`.
+
+<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d" align="right" width="200px">
 
 ## Getting Started
 
