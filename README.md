@@ -1,6 +1,7 @@
-<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/269e4993-5579-41f8-8bbb-c89188498a85" align="left" height="100%">
+<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/269e4993-5579-41f8-8bbb-c89188498a85" align="left" width="200px">
 
-![image](https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d)
+<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d" align="right" width="200px">
+
 
 
 # GitHub Popular Repositories
