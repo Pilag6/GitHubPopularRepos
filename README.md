@@ -1,12 +1,10 @@
 <img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/269e4993-5579-41f8-8bbb-c89188498a85" align="left" width="200px">
 
-<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d" align="right" width="200px">
-
-
-
 # GitHub Popular Repositories
 
 This is a single page application that consumes GitHub's API and displays information about a GitHub repository provided by the user. The information displayed includes the repository's name, author, author's profile picture, number of stars and forks, and whether the repository is popular or not (a repository is considered popular if its score is greater than or equal to 500, where score = num_stars * 1 + num_forks * 2).
+
+<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d" align="right" width="200px">
 
 ## Assumptions
 
