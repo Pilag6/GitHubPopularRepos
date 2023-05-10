@@ -1,4 +1,7 @@
-Sure, here's a template you could use for the README file for your project:
+<img src="https://github.com/Pilag6/githubPopularRepos/assets/79191808/269e4993-5579-41f8-8bbb-c89188498a85" align="left" height="100%">
+
+![image](https://github.com/Pilag6/githubPopularRepos/assets/79191808/0867a56d-c6b0-44cb-9035-5410a6de5b9d)
+
 
 # GitHub Popular Repositories
 
