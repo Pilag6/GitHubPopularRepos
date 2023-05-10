@@ -17,8 +17,8 @@ This is a single page application that consumes GitHub's API and displays inform
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/github-popular-repositories.git`
-2. Navigate to the project directory: `cd github-popular-repositories`
+1. Clone the repository: `git clone https://github.com/your-username/githubPopularRepos.git`
+2. Navigate to the project directory: `cd githubPopularRepos`
 3. Install the dependencies: `npm install`
 4. Create a `apikey.js` file at the root of the project directory and add your GitHub access token. The `.apikey.js` file should look like this:
    ```
